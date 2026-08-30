@@ -1,4 +1,4 @@
-ito yung code: # RDP Brute Force Attack Detection – V2
+
 ## Overview
 This is a follow-up brute force exercise (V2) building on the original RDP brute force test. This version uses a larger wordlist (100 attempts instead of 20) to observe account lockout behavior and Wazuh alert scaling under a heavier attack volume.
 ## Lab Environment
