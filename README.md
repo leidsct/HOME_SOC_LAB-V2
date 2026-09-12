@@ -24,6 +24,13 @@ Second iteration of my home SOC lab build, following up on [SOC-Home-Lab](https:
 - **SIEM:** Wazuh, deployed on Ubuntu Server
 - **Network:** Isolated NAT network ("soclab")
 
+ ## Lab Environment
+
+- **Attacker:** Kali Linux (xfreerdp3)
+- **Target:** Windows 10 VM (demoWIN)
+- **SIEM:** Wazuh, deployed on Ubuntu Server
+- **Network:** Isolated NAT network ("soclab")
+
 More simulations and writeups will be added as they're completed. Follow [@leidsct](https://github.com/leidsct) for progress.
 
 ---
