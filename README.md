@@ -17,19 +17,7 @@ Second iteration of my home SOC lab build, following up on [SOC-Home-Lab](https:
 - 🎯 New attack simulations mapped to MITRE ATT&CK
 - 📊 Improved dashboards and alerting workflow
 
-- ## What's Planned
 
-- 🖥️ Updated Wazuh SIEM configuration
-- 🔍 Expanded Sysmon logging and detection rules
-- 🎯 New attack simulations mapped to MITRE ATT&CK
-- 📊 Improved dashboards and alerting workflow
-
-## Lab Environment
-
-- **Attacker:** Kali Linux (xfreerdp3)
-- **Target:** Windows 10 VM (demoWIN)
-- **SIEM:** Wazuh, deployed on Ubuntu Server
-- **Network:** Isolated NAT network ("soclab")
 
  ## Lab Environment
 
